@@ -2,12 +2,12 @@
  # Агрегатор русского телевидения
  # 新闻频道组
  #EXTINF:-1 group-title="новостные", ЛГН Новости (LGN)
- https://ghproxy.com/https://m3u.su/lgn
+ https://m3u.su/lgn
  #EXTINF:-1 group-title="24 Телевидние", 24 Телевидение (RUT)
- https://ghproxy.com/https://m3u.su/rut
+ https://m3u.su/rut
  # 综合频道组
  #EXTINF:-1 group-title="Смотрим", Смотрим TV (Rusm)
- https://ghproxy.com/https://m3u.su/rusm
+ https://m3u.su/rusm
  # RT专属组
  #EXTINF:-1 group-title="RT", RT Россия HD (RURT)
- https://ghproxy.com/https://m3u.su/rurt
+ https://m3u.su/rurt
