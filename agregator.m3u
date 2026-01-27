@@ -1,12 +1,13 @@
-#EXTM3U
- 
-#Агрегатор русского телевидения                                 
- 
-#EXTINF:-1 group-title="новостные",
-https://m3u.su/lgn
-#EXTINF:-1 group-title="Смотрим",
-https://m3u.su/rusm
-#EXTINF:-1 group-title="RT",
-https://m3u.su/rurt
-#EXTINF:-1 group-title="24 Телевидние",
-https://m3u.su/rut
+ #EXTM3U url-tvg="https://iptvx.one/EPG" encoding="UTF-8"
+ # Агрегатор русского телевидения
+ # 新闻频道组
+ #EXTINF:-1 group-title="новостные", ЛГН Новости (LGN)
+ https://ghproxy.com/https://m3u.su/lgn
+ #EXTINF:-1 group-title="24 Телевидние", 24 Телевидение (RUT)
+ https://ghproxy.com/https://m3u.su/rut
+ # 综合频道组
+ #EXTINF:-1 group-title="Смотрим", Смотрим TV (Rusm)
+ https://ghproxy.com/https://m3u.su/rusm
+ # RT专属组
+ #EXTINF:-1 group-title="RT", RT Россия HD (RURT)
+ https://ghproxy.com/https://m3u.su/rurt
