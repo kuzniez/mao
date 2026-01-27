@@ -1,13 +1,14 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" encoding="UTF-8"
-# 分组1：新闻频道（源自loganettv）
-#EXTGRP:新闻频道
-https://ghfast.top/https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/news.m3u
-# 分组2：俄区Smotrim频道
-#EXTGRP:俄区Smotrim
-https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_smotrim.m3u
-# 分组3：俄区Televizor24频道
-#EXTGRP:俄区Televizor24
-https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
-# 分组4：俄区RT频道
-#EXTGRP:俄区RT
+ #EXTM3U url-tvg="https://iptvx.one/EPG" encoding="UTF-8"
+ # Агрегатор русского телевидения
+ # новостные
+ #EXTINF:-1 group-title="новостные", ЛГН Новости (LGN)
+ https://ghfast.top/https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/news.m3u
+ # 24 Телевидение 
+#EXTINF:-1 group-title=""24 Телевидение ", 24 Телевидение (RUT)
+ https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
+ # смотрим
+ #EXTINF:-1 group-title="Смотрим", Смотрим TV (Rusm)
+ https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_smotrim.m3u
+ # RT
+ #EXTINF:-1 group-title="RT", RT Россия HD (RURT)
 https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_rt.m3u
