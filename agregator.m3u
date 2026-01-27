@@ -1,13 +1,13 @@
- #EXTM3U url-tvg="https://iptvx.one/EPG" encoding="UTF-8"
- # Агрегатор русского телевидения
- # 新闻频道组
- #EXTINF:-1 group-title="новостные", ЛГН Новости (LGN)
- https://ghfast.top/https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/news.m3u
- #EXTINF:-1 group-title="24 Телевидние", 24 Телевидение (RUT)
- https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
- # 综合频道组
- #EXTINF:-1 group-title="Смотрим", Смотрим TV (Rusm)
- https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_smotrim.m3u
- # RT专属组
- #EXTINF:-1 group-title="RT", RT Россия HD (RURT)
+#EXTM3U url-tvg="https://iptvx.one/EPG" encoding="UTF-8"
+
+#EXTINF:-1 group-title="новостные", ЛГН Новости
+https://ghfast.top/https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/news.m3u
+
+#EXTINF:-1 group-title="24 Телевидние", 24 Телевидение
+https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
+
+#EXTINF:-1 group-title="смотрим", смотрим
+https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_smotrim.m3u
+
+#EXTINF:-1 group-title="24 RT", RT D
 https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_rt.m3u
