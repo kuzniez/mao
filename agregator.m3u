@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" encoding="UTF-8"
-
-#EXTINF:-1 group-title="новостные", ЛГН Новости
+# 分组1：新闻频道（源自loganettv）
+#EXTGRP:新闻频道
 https://ghfast.top/https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/news.m3u
-
-#EXTINF:-1 group-title="24 Телевидние", 24 Телевидение
-https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
-
-#EXTINF:-1 group-title="смотрим", смотрим
+# 分组2：俄区Smotrim频道
+#EXTGRP:俄区Smotrim
 https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_smotrim.m3u
-
-#EXTINF:-1 group-title="24 RT", RT D
+# 分组3：俄区Televizor24频道
+#EXTGRP:俄区Televizor24
+https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
+# 分组4：俄区RT频道
+#EXTGRP:俄区RT
 https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_rt.m3u
