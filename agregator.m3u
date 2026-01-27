@@ -2,12 +2,12 @@
  # Агрегатор русского телевидения
  # 新闻频道组
  #EXTINF:-1 group-title="новостные", ЛГН Новости (LGN)
- https://m3u.su/lgn
+ https://ghfast.top/https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/news.m3u
  #EXTINF:-1 group-title="24 Телевидние", 24 Телевидение (RUT)
- https://m3u.su/rut
+ https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_televizor24.m3u
  # 综合频道组
  #EXTINF:-1 group-title="Смотрим", Смотрим TV (Rusm)
- https://m3u.su/rusm
+ https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_smotrim.m3u
  # RT专属组
  #EXTINF:-1 group-title="RT", RT Россия HD (RURT)
- https://m3u.su/rurt
+https://ghfast.top/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_rt.m3u
