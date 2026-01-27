@@ -2,11 +2,11 @@
  
 #Агрегатор русского телевидения                                 
  
-#EXTINF:-1 group-title="новостные",Каналы только новостные
+#EXTINF:-1 group-title="новостные",
 https://m3u.su/lgn
-#EXTINF:-1 group-title="Смотрим",РУ_Смотрим 
+#EXTINF:-1 group-title="Смотрим",
 https://m3u.su/rusm
-#EXTINF:-1 group-title="RT",RURT 
+#EXTINF:-1 group-title="RT",
 https://m3u.su/rurt
-#EXTINF:-1 group-title="24 Телевидние",24 телевидение 
+#EXTINF:-1 group-title="24 Телевидние",
 https://m3u.su/rut
