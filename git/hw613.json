@@ -217,6 +217,14 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/esdtv.txt",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
     },
+   {
+      "key": "影视KQ",
+      "name": "好友影视",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/csdtv.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
+    },
     {
       "key": "影视",
       "name": "猫TV直播",
@@ -225,14 +233,7 @@
       "ext": "http://rihou.cc:555/nzk/sdtv.txt",
       "jar": "http://rihou.cc:555/jar/sdtv.jar"
     },
-    {
-      "key": "影视KQ",
-      "name": "好友影视",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/csdtv.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
-    },
+    
     {
       "key": "热播",
       "name": "影视热播",
