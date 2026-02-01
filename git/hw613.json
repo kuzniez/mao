@@ -205,17 +205,17 @@
       "key": "影视TJ",
       "name": "KUZTV直播",
       "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
     },
     {
       "key": "影视ETJ",
       "name": "峨眉影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/esdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/esdtv.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
     },
     {
       "key": "影视",
@@ -229,9 +229,9 @@
       "key": "影视KQ",
       "name": "好友影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/csdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/csdtv.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
     },
     {
       "key": "热播",
@@ -248,17 +248,17 @@
       "key": "影视EV",
       "name": "好朋友",
       "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/fsdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/fsdtv.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
     },
     {
       "key": "影视AV",
       "name": "片库",
       "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/gsdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/gsdtv.txt",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
     },
     {
       "key": "csp_LiteApple",
@@ -272,30 +272,7 @@
       "filterable": 1,
       "ext": ""
     },
-    {
-      "key": "影视BV",
-      "name": "影片库上",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/hsdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
-    },
-    {
-      "key": "影视CV",
-      "name": "影片库中",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/isdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
-    },
-    {
-      "key": "影视DV",
-      "name": "影片库下",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
-      "ext": "https://d.kstore.dev/download/3049/kot/hw613/jsdtv.txt",
-      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
-    },
+    
     {
       "key": "央视大全",
       "name": "《央视🔹大全》",
