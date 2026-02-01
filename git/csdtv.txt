@@ -1,8 +1,4 @@
 [
-
 {"name":"好友影视","url":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/hpyys.txt
 &&&https://api.btstu.cn/sjbz/api.php"}
-
-
-
 ]
