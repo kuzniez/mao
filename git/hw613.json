@@ -15,8 +15,8 @@
       "name": "ruzb2",
       "boot": true,
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/ruzb2.m3u",
-      "playerType": 1,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/ruzb2.m3u",                       
+     "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
