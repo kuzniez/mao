@@ -124,7 +124,7 @@
         "type": "rect",
         "ratio": 1.297
       },
-      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
+      "jar": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/tvbox.jar"
     },
     {
       "key": "哔哩集合",
@@ -139,9 +139,9 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://d.kstore.dev/download/3049/kot/lib/bili.json"
+        "json": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/bili.json"
       },
-      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
+      "jar": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/tvbox.jar"
     },
     {
       "key": "jrsjs",
