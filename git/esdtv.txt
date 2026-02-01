@@ -1,0 +1,7 @@
+[
+
+{"name":"峨眉影视","url":"https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/rusfilm.txt&&&https://api.btstu.cn/sjbz/api.php"}
+
+
+
+]
