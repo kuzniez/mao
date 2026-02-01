@@ -113,7 +113,7 @@
       "changeable": 1,
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvkj.jar"
     },
-    {
+     {
       "key": "配置",
       "name": "📥配置┃中心",
       "type": 3,
@@ -124,7 +124,7 @@
         "type": "rect",
         "ratio": 1.297
       },
-      "jar": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvbox.jar"
+      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
     },
     {
       "key": "哔哩集合",
@@ -139,9 +139,9 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/bili.json"
+        "json": "https://d.kstore.dev/download/3049/kot/lib/bili.json"
       },
-      "jar": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvbox.jar"
+      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
     },
     {
       "key": "jrsjs",
