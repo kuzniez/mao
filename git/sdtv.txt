@@ -1,0 +1,7 @@
+[
+
+{"name":"KUZTV直播","url":"https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/ruzb.txt&&&https://api.btstu.cn/sjbz/api.php"}
+
+
+
+]
