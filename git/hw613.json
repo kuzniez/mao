@@ -124,7 +124,7 @@
         "type": "rect",
         "ratio": 1.297
       },
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvbox.jar"
+      "jar": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvbox.jar"
     },
     {
       "key": "哔哩集合",
@@ -139,9 +139,9 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/bili.json"
+        "json": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/bili.json"
       },
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvbox.jar"
+      "jar": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvbox.jar"
     },
     {
       "key": "jrsjs",
