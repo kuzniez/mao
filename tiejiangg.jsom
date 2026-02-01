@@ -1,4 +1,175 @@
-
+ {
+  "spider": "https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/ysc_jar;md5;850d5c057b84bb8458e807af27be36b4",
+  "lives": [
+    {
+      "name": "kuz直播",
+      "boot": true,
+      "type": 0,
+      "url": "https://d.kstore.dev/download/3049/kot/ruzb.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "ruzb2",
+      "boot": true,
+      "type": 0,
+      "url": "https://d.kstore.dev/download/3049/kot/ruzb2.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "D1内置直播",
+      "boot": true,
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "D2内置EXO",
+      "boot": true,
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "D3内置测试",
+      "boot": true,
+      "type": 0,
+      "url": "http://rihou.cc:555/ggggg.nzk",
+      "playerType": 2,
+      "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      },
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "rusfilm",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/3049/kot/rusfilm.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "电影",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "QV直播",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "GT直播",
+      "boot": true,
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "天微MTV",
+      "boot": true,
+      "type": 0,
+      "url": "https://d.kstore.dev/download/3049/mtv.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    }
+  ],
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "仅限kuz个人试用测试，严谨传播贩卖，请于24小时后删除",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "jar": "https://d.kstore.dev/download/3049/tvkj.jar"
+    },
+    {
+      "key": "配置",
+      "name": "📥配置┃中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.297
+      },
+      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
+    },
+    {
+      "key": "哔哩集合",
+      "name": "🅱️哔哩┃kuz集合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://d.kstore.dev/download/3049/kot/lib/bili.json"
+      },
+      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
+    },
+    {
+      "key": "jrsjs",
+      "name": "赛事直播",
+      "type": 3,
+      "api": "http://rihou.cc:555/drpy2.min.txt?file=drpy2.min.js",
+      "ext": "http://rihou.cc:555/JRKAN.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 10,
+      "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "key": "csp_Kanqiu",
+      "name": "球赛直播",
+      "type": 3,
+      "api": "https://gitee.com/ltby1/vip/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/ltby1/vip/raw/master/lib/310直播.js",
+      "jar": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+      "style": {
+        "type": "list"
+      },
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
