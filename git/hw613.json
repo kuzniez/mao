@@ -290,10 +290,10 @@
       "name": "🇨🇳央视频道",
       "type": 3,
       "api": "csp_CCTV",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/荷城茶秀.jar",
       "searchable": 0,
       "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/央视大全.json"
     },
     {
       "key": "csp_Bili短剧",
