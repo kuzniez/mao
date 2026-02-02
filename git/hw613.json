@@ -1,11 +1,11 @@
- {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/ysc.jar;md5;850d5c057b84bb8458e807af27be36b4",
+
+  "spider": "https://d.kstore.dev/download/3049/kot/hw613/ysc.jar;md5;850d5c057b84bb8458e807af27be36b4",
   "lives": [
     {
       "name": "kuz直播",
       "boot": true,
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/ruzb.txt",
+      "url": "https://d.kstore.dev/download/3049/kot/ruzb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -15,8 +15,8 @@
       "name": "ruzb2",
       "boot": true,
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/ruzb2.m3u",                       
-     "playerType": 1,
+      "url": "https://d.kstore.dev/download/3049/kot/ruzb2.m3u",
+      "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -54,9 +54,18 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "chenmo",
+      "type": 0,
+      "url": "https://52xiaobai.cn/ceshi/zb.php",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "rusfilm",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/rusfilm.txt",
+      "url": "https://d.kstore.dev/download/3049/kot/rusfilm.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -111,9 +120,9 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tvkj.jar"
+      "jar": "https://d.kstore.dev/download/3049/tvkj.jar"
     },
-     {
+    {
       "key": "配置",
       "name": "📥配置┃中心",
       "type": 3,
@@ -124,7 +133,7 @@
         "type": "rect",
         "ratio": 1.297
       },
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/tvbox.jar"
+      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
     },
     {
       "key": "哔哩集合",
@@ -139,9 +148,9 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/bili.json"
+        "json": "https://d.kstore.dev/download/3049/kot/lib/bili.json"
       },
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/tvbox.jar"
+      "jar": "https://d.kstore.dev/download/3049/tvbox.jar"
     },
     {
       "key": "jrsjs",
@@ -205,25 +214,17 @@
       "key": "影视TJ",
       "name": "KUZTV直播",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
     },
     {
       "key": "影视ETJ",
       "name": "峨眉影视",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/esdtv.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
-    },
-   {
-      "key": "影视KJQ",
-      "name": "好友影视",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/csdtv.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/esdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
     },
     {
       "key": "影视",
@@ -233,7 +234,14 @@
       "ext": "http://rihou.cc:555/nzk/sdtv.txt",
       "jar": "http://rihou.cc:555/jar/sdtv.jar"
     },
-    
+    {
+      "key": "影视KQ",
+      "name": "好友影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/csdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+    },
     {
       "key": "热播",
       "name": "影视热播",
@@ -249,17 +257,17 @@
       "key": "影视EV",
       "name": "好朋友",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/fsdtv.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/fsdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
     },
     {
       "key": "影视AV",
       "name": "片库",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/gsdtv.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/gsdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
     },
     {
       "key": "csp_LiteApple",
@@ -273,7 +281,30 @@
       "filterable": 1,
       "ext": ""
     },
-    
+    {
+      "key": "影视BV",
+      "name": "影片库上",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/hsdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+    },
+    {
+      "key": "影视CV",
+      "name": "影片库中",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/isdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+    },
+    {
+      "key": "影视DV",
+      "name": "影片库下",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.js",
+      "ext": "https://d.kstore.dev/download/3049/kot/hw613/jsdtv.txt",
+      "jar": "https://d.kstore.dev/download/3049/kot/hw613/sdtv.jar"
+    },
     {
       "key": "央视大全",
       "name": "《央视🔹大全》",
@@ -291,10 +322,10 @@
       "name": "🇨🇳央视频道",
       "type": 3,
       "api": "csp_CCTV",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/荷城茶秀.jar",
+      "jar": "https://d.kstore.dev/download/3049/json/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80.jar",
       "searchable": 0,
       "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/央视大全.json"
+      "ext": "https://d.kstore.dev/download/3049/json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
     },
     {
       "key": "csp_Bili短剧",
@@ -1232,7 +1263,7 @@
         "日韩动漫"
       ]
     },
-   {
+    {
       "key": "tengxun",
       "name": "关注网站",
       "type": 4,
@@ -2226,6 +2257,66 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 10
+    },
+    {
+      "key": "hongniu",
+      "name": "红牛资源2",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/hongniu?token=3d7424456c874b28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "maotai",
+      "name": "茅台资源2",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/maotai?token=3d7424456c874b28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "shandian",
+      "name": "闪电资源2",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/shandian?token=3d7424456c874b28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼资源2",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/suoni?token=3d7424456c874b28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "wujin",
+      "name": "无尽资源2",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/wujin?token=3d7424456c874b28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "xinlang",
+      "name": "新浪资源",
+      "type": 4,
+      "api": "http://115.191.55.109:8080/video/xinlang?token=3d7424456c874b28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     }
   ],
   "parses": [
