@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fanspider.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {"key": "点我切源","name": "豆豆┃片单","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
