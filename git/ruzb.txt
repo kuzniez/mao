@@ -1154,90 +1154,103 @@ HUB都会Hktv,http://rihou.cc:555/tv/[Hk]HUB都会
 
 
 俄罗斯,#genre#
-Россия 24,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
-Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
+
+Россия 1 HD,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+Россия 1 (+1),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
+Россия 1 HD (+1),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
+Россия 1 (+2),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+Россия 1 HD (+2),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+Россия 1 (+3),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
+Россия 1 HD (+3),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
+Россия 1 (+4),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_4.m3u8
+Россия 1 HD (+4),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+Россия 1 (+5),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
+Россия 1 HD (+5),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
+Россия 1 (+6),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
+Россия 1 HD (+6),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+Россия 1 (+7),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
+Россия 1 HD (+7),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+Россия 1 (+8),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
+Россия 1 HD (+8),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
+Россия 1 (+9),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
+Россия 1 HD (+9),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+Russia1 Nigniynovgorod,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
+Россия К,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAK.m3u8
+Россия К HD,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
+Россия К (+2),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAK_2.m3u8
+Россия К HD (+2),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
+Россия К (+4),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAK_4.m3u8
+Россия К HD (+4),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
+Россия К (+7),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAK_7.m3u8
+Россия К HD (+7),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
+PLANETA RTR (EURO),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
+PLANETA RTR HD720 (EURO),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
+PLANETA RTR (USA),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
+PLANETA RTR HD720 (USA),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
+Россия РТР (ASIA),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_ASIA.m3u8
+Россия РТР HD720 (ASIA),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_ASIA.m3u8
+Россия РТР (СНГ),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_SNG.m3u8
+Россия РТР HD720 (СНГ),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
+Россия 24,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24.m3u8
+Россия 24 HD,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
+Россия 24 (+2),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+Россия 24 (+3),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+Россия 24 (+6),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
+Россия 24 International,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+Карусель,http://dmi3y-tv.online/hls/smotrim/T2/CH_KARUSEL.m3u8
+СМОТРИМ Кино и сериалы,http://dmi3y-tv.online/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+СМОТРИМ Кино и сериалы HD,http://dmi3y-tv.online/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+СМОТРИМ 100% ЛЮБОВЬ,http://dmi3y-tv.online/hls/smotrim/CH_LYUBOV.m3u8
+СМОТРИМ 100% ЛЮБОВЬ HD,http://dmi3y-tv.online/hls/smotrim/CH_LYUBOVHD.m3u8
+СМОТРИМ 100% МУЖСКОЕ,http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOE.m3u8
+СМОТРИМ 100% МУЖСКОЕ HD,http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOEHD.m3u8
+СМОТРИМ 100% КЛАССИКА,http://dmi3y-tv.online/hls/smotrim/CH_CLASSICA.m3u8
+СМОТРИМ 100% КЛАССИКА HD,http://dmi3y-tv.online/hls/smotrim/CH_CLASSICAHD.m3u8
+Соловьев Live,http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
+Соловьев Live HD,http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
+360° НОВОСТИ,http://dmi3y-tv.online/hls/smotrim/CH_360TV_NEWS.m3u8
+360° НОВОСТИ HD,http://dmi3y-tv.online/hls/smotrim/CH_360TV_NEWSHD.m3u8
+СМОТРИМ 100% ФАКТЫ,http://dmi3y-tv.online/hls/smotrim/CH_FAKTY.m3u8
+СМОТРИМ 100% ФАКТЫ HD,http://dmi3y-tv.online/hls/smotrim/CH_FAKTYHD.m3u8
+360°,http://dmi3y-tv.online/hls/smotrim/CH_360TV.m3u8
+360° HD,http://dmi3y-tv.online/hls/smotrim/CH_360TVHD.m3u8
+СМОТРИМ 100% ПРАЗДНИК,http://dmi3y-tv.online/hls/smotrim/CH_PRAZDNIK.m3u8
+СМОТРИМ 100% ПРАЗДНИК HD,http://dmi3y-tv.online/hls/smotrim/CH_PRAZDNIKHD.m3u8
+СМОТРИМ 100% ДЕТСКОЕ,http://dmi3y-tv.online/hls/smotrim/CH_DETSKOE.m3u8
+СМОТРИМ 100% ДЕТСКОЕ HD,http://dmi3y-tv.online/hls/smotrim/CH_DETSKOEHD.m3u8
+Россия 1 (+4) (Абакан),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_ABAKAN.m3u8
+Россия 24 (Абакан),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_ABAKAN.m3u8
+Россия 1 HD (+1) (Астрахань),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_ASTRH.m3u8
+Россия 24 (Астрахань),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_ASTRH.m3u8
+Россия 1 (+4) (Барнаул),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_BUL.m3u8
+Россия 24 (Барнаул),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_BUL.m3u8
+Россия 1 HD (+0) (Белгород),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_BELG.m3u8
+Россия 24 (+0) (Белгород),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_BELG.m3u8
+Россия 1 HD (+6) (Благовещенск),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_DV_BLAG.m3u8
+Россия 24 (+6) (Благовещенск),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_DV_BLAG.m3u8
+Россия 1 HD (+0) (Брянск),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_BRYANSK.m3u8
+Россия 1 (+7) (Владивосток),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_DV_VLD.m3u8
+Россия 24 (Владивосток),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_DV_VLD.m3u8
+Россия 24 (Владимир),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_VLAD.m3u8
+Россия 1 HD (+0) (Волгоград),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_VGRAD.m3u8
+Россия 24 (+0) (Волгоград),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_VGRAD.m3u8
+Волгоград 24 (Волгоград),http://dmi3y-tv.online/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+Волгоград 24 HD (Волгоград),http://dmi3y-tv.online/hls/smotrim/region/CH_VOLGOGRAD24HD_VGRAD.m3u8
+Россия 1 (+0) (Вологда),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_VOL.m3u8
+Россия 24 (Вологда),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_VOL.m3u8
+Россия 1 HD (+2) (Екатеринбург),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_EKT.m3u8
+Россия 24 (+2) (Екатеринбург),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_EKT.m3u8
+Россия 1 HD (+0) (Иваново),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_IVAN.m3u8
+Россия 24 (Иваново),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_IVAN.m3u8
+Россия 1 (+5) (Иркутск),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
+Россия 24 (Иркутск),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_IRK.m3u8
+Россия 1 HD (-1) (Калининград),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_KLGR.m3u8
+Россия 24 (Калининград),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_KLGR.m3u8
+Запад 24 (Калининград),http://dmi3y-tv.online/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+Запад 24 HD (Калининград),http://dmi3y-tv.online/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+Россия 1 HD (+0) (Калуга),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_KALUGA.m3u8
+Россия 24 (+0) (Калуга),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA24_KALUGA.m3u8
+Россия 1 HD (+4) (Кемерово),http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_KEM.m3
 Россия 24,http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 Россия 24,http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
 Россия 24,http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
@@ -1296,202 +1309,7 @@ HUB都会Hktv,http://rihou.cc:555/tv/[Hk]HUB都会
 Россия 24,http://dmi3y-tv6.ru/hls/smotrim/region/CH_RUSSIA24_ELISTA.m3u8
 Россия 24,http://dmi3y-tv6.ru/hls/smotrim/region/CH_RUSSIA24_DV_YKT.m3u8
 Россия 24,http://dmi3y-tv6.ru/hls/smotrim/region/CH_RUSSIA24_YARL.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 Россия 1,http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
-Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
-Россия 1 HD,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8
-Россия 1,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
 Россия РТР,https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 Россия РТР,https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 Россия РТР Азия,https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
