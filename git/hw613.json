@@ -21,10 +21,30 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 		{
-      "name": "wangziduoqing直播",
+      "name": "YYLUNBO",
       "boot": true,
       "type": 0,
-      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/yylunbo.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+      "name": "虎牙一起看",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/huyayiqikan.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+      "name": "斗鱼一起看",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/douyuyqk.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
