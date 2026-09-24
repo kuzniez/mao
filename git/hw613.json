@@ -635,9 +635,9 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"jar":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
+			"jar":"./hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
 			"ext": {
-				"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+				"json": "./hw7237/5af5fbe12a88b7c45aa1c21e6551826c.txt"
 			}
 		},
 		{
@@ -672,8 +672,8 @@
 			"key": "虎牙js",
 			"name": "🐯虎牙┃直播",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js",
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/虎牙.js",
+			"api": "./hw7237/drpy2.min.js",
+			"ext": "./hw7237/虎牙.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
@@ -688,8 +688,8 @@
 			"key": "斗鱼js",
 			"name": "🐟斗鱼┃直播",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js",
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/斗鱼直播.js",
+			"api": "./hw7237/drpy2.min.js",
+			"ext": "./hw7237/斗鱼直播.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
