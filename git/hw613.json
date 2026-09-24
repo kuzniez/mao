@@ -11,6 +11,16 @@
 			"logo": "https://epg.112114.eu.org/logo/{name}.png"
 		},
 		{
+      "name": "王子多情",
+      "boot": true,
+      "type": 0,
+      "url": "http://wangziduoqing.cn/yuan/zb.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
       "name": "全国组播",
       "boot": true,
       "type": 0,
