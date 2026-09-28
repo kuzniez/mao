@@ -737,7 +737,7 @@
 			}
 		},
 		{
-			"key": "Bili",
+			"key": "Bilihj",
 			"name": "🅱哔哔合集┃弹幕",
 			"type": 3,
 			"api": "csp_BiliGuard",
