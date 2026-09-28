@@ -4,6 +4,19 @@
   "sites": [
     {"key": "点我切源","name": "豆豆┃片单","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "MDrive","name": "🗂我的云盘┃配置","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 1,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+    {
+			 "key": "Bili",
+	         "name": "🅱️哔哩┃kuz弹幕集合",
+	         "type": 3,
+	         "api": "csp_BiliGuard",
+	         "searchable": 1,
+	         "quickSearch": 0,
+            "changeable": 0,
+			"ext": {
+				"json":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/0075389dca9afadd4614e9713765ff17.txt"
+			},
+			"jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea"
+		},
     {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "YGP","name": "🚀叨观荐影┃预告片","type": 3,"api": "csp_YGPGuard","searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "MTV1","name": "🎙️易听音乐┃带歌词","type": 3,"api": "csp_MusicGuard","style": {"type": "rect","ratio": 1},"playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0},
@@ -32,21 +45,21 @@
     {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
     {"key": "有声小说","name": "🎧有声┃小说","type": 3,"api": "csp_Tingshu275Guard","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAidGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
-    {"key": "虎牙js","name": "🐯虎牙┃直播","type": 3,"api": "./FTY/drpy2.min.js","ext": "./FTY/虎牙.js","style": {"type": "rect","ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0},
-    {"key": "斗鱼js","name": "🐟斗鱼┃直播","type": 3,"api": "./FTY/drpy2.min.js","ext": "./FTY/斗鱼直播.js","style": {"type": "rect","ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key": "虎牙js","name": "🐯虎牙┃直播","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js","ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/虎牙.js","style": {"type": "rect","ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key": "斗鱼js","name": "🐟斗鱼┃直播","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js","ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/斗鱼直播.js","style": {"type": "rect","ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "ZPan","name": "🎈盘搜┃四盘","type": 3,"api": "csp_S_zpsGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"siteUrl": "http://107.173.211.148/"},"indexs": 0,"style": {"type": "list"}},
     {"key": "JPan","name": "🦋易搜┃四盘","type": 3,"api": "csp_S_zpsGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"siteUrl": "https://so.252035.xyz/"},"indexs": 0,"style": {"type": "list"}},
     {"key": "YpanSo","name": "🐌盘她┃夸父","type": 3,"api": "csp_YpanSoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "BpanSo","name": "🐞盘他┃嘟嘟","type": 3,"api": "csp_BpanSoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "抠搜","name": "🍄抠抠┃搜搜","type": 3,"api": "csp_KkSsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "UC","name": "🌈优汐┃搜搜","type": 3,"api": "csp_UuSsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
-    {"key": "Bili","name": "🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}},
-    {"key": "Biliych","name": "🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"}},
-    {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "./FTY/drpy2.min.js","ext": "./FTY/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
-    {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"}},
-    {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"}},
-    {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"}},
-    {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"}},
+    {"key": "Bilihj","name": "🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/bibiheji.txt"}},
+    {"key": "Biliych","name": "🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/yanchanghui.txt"}},
+    {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js","ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/兔小贝.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/shaoer.txt"}},
+    {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/xiaoxue.txt"}},
+    {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/chuzhong.txt"}},
+    {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/gaozhong.txt"}},
     {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_PushGuard","searchable": 0,"quickSearch": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "cc","name": "请勿信视频中任何广告","type": 3,"api": "csp_XPathGuard","searchable": 1,"quickSearch": 0,"changeable": 0}
   ],
@@ -60,6 +73,185 @@
   "images.67c6c7a.com=fan.cloudflare.182682.xyz"
 ],
   "lives": [
+    {
+			"name": "kuz直播",
+			"boot": true,
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/ruzb.txt",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+      "name": "王子多情",
+      "boot": true,
+      "type": 0,
+      "url": "http://wangziduoqing.cn/yuan/zb.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+      "name": "全国组播",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+      "name": "YYLUNBO",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/yylunbo.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+      "name": "虎牙一起看",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/huyayiqikan.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+      "name": "斗鱼一起看",
+      "boot": true,
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/douyuyqk.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+		{
+			"name": "ruzb2",
+			"boot": true,
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/ruzb2.m3u",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "ruzb3",
+			"boot": true,
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/ruzb3.m3u",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "tval",
+			"boot": true,
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/tva1.m3u",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "D1内置直播",
+			"boot": true,
+			"type": 0,
+			"url": "http://rihou.cc:555/gggg.nzk",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "D2内置EXO",
+			"boot": true,
+			"type": 0,
+			"url": "http://rihou.cc:567/gggg.nzk",
+			"playerType": 2,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "D3内置测试",
+			"boot": true,
+			"type": 0,
+			"url": "http://rihou.cc:555/ggggg.nzk",
+			"playerType": 2,
+			"header": {
+				"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+			},
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+      "name": "chenmo",
+      "type": 0,
+      "url": "https://52xiaobai.cn/ceshi/zb.php",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+		{
+			"name": "rusfilm",
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/rusfilm.txt",
+			"ua": "okhttp/3.15",
+			"playerType": 1,
+			"epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+			"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "电影",
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/main/hpydy.txt",
+			"playerType": 2,
+			"ua": "okhttp/3",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "QV直播",
+			"boot": true,
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "GT直播",
+			"boot": true,
+			"type": 0,
+			"url": "https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
+		{
+			"name": "天微MTV",
+			"boot": true,
+			"type": 0,
+			"url": "https://d.kstore.dev/download/3049/mtv.txt",
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+			"logo": "https://epg.112114.eu.org/logo/{name}.png"
+		},
     {"name": "Kimentanm","type": 0,"url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType": 2},
     {"name": "综合直播","type": 0,"url": "http://193.123.86.190:14888/TV/iptv.php","ua": "bingcha/1.1 (mianfeifenxiang)","playerType": 2},
     {"name": "范明明（需开启V6网络）","type": 0,"url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType": 2},
