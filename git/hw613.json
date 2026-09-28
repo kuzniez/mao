@@ -216,9 +216,9 @@
 				"ratio": 1.433
 			},
 			"ext": {
-				"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/bili.json"
+				"json": ""json":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/bilibili.txt","
 			},
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/tvbox.jar"
+			"jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea"
 		},
 		{
 			"key": "jrsjs",
