@@ -98,7 +98,7 @@
 			"jar":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
             "ext": {
                 "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
-            }
+            },
 	  {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js","ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/兔小贝.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/shaoer.txt"}},
     {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/xiaoxue.txt"}},
