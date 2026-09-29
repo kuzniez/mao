@@ -55,7 +55,51 @@
     {"key": "UC","name": "🌈优汐┃搜搜","type": 3,"api": "csp_UuSsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "Bilihj","name": "🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/bibiheji.txt"}},
     {"key": "Biliych","name": "🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/yanchanghui.txt"}},
-    {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js","ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/兔小贝.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {
+            "key": "biliys",
+            "name": "🅱哔哩┃影视🅱",
+            "type": 3,
+            "api": "csp_BiliYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/wangxiaoer.jpg;md5:FC8F993C9297D38139363CD0E3DB9853",
+            "filterable": 1
+        },
+		{
+            "key": "bilixiqu",
+            "name": " 🅱‍哔哩┃戏曲🅱‍",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
+            }
+        }, {
+            "key": "biliych",
+            "name": " 🅱‍哔哩┃歌曲🅱‍",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+            }
+	  {"key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/drpy2.min.js","ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/兔小贝.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/shaoer.txt"}},
     {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/xiaoxue.txt"}},
     {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/chuzhong.txt"}},
