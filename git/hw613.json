@@ -183,7 +183,7 @@
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆瓣",
-			"name": "仅限kuz个人试用测试，严谨传播贩卖，请于24小时后删除",
+			"name": "仅限kuz个人试用测试，严禁传播贩卖，请于24小时后删除",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
