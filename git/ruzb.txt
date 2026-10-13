@@ -1164,7 +1164,9 @@ PLANETA RTR HD720 (USA),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720
 Россия РТР HD720 (ASIA),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_ASIA.m3u8
 Россия РТР (СНГ),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_SNG.m3u8
 Россия РТР HD720 (СНГ),http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
+Россия 24,https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 Россия 24,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24.m3u8
+Россия 24,https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
 Россия 24 HD,http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 Россия 24 (+2),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
 Россия 24 (+3),http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
