@@ -54,8 +54,7 @@
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/gsdtv.txt",
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/git/sdtv.jar"
 		},
-	  {"key": "Bili","name": "🅱️哔哩┃kuz弹幕集合",type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json":"https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/0075389dca9afadd4614e9713765ff17.txt"},
-	 {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+	{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "YGP","name": "🚀荐影┃预告片","type": 3,"api": "csp_YGPGuard","searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "MTV1","name": "🎙️易听┃音乐","type": 3,"api": "csp_MusicGuard","style": {"type": "rect","ratio": 1},"playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "seed","name": "💡聚剧┃四盘","type": 3,"api": "csp_SeedhubGuard","ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable": 1,"quickSearch": 1,"changeable": 0,"indexs": 0},
