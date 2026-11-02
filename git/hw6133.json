@@ -2,7 +2,7 @@
   "spider": "https://ghfast.top/https://raw.githubusercontent.com/kuzniez/mao/refs/heads/main/hw7237/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
-    {"key": "点我切源","name": "仅限kuz个人试用┃<严禁贩卖>","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "点我切源","name": "仅限kuz个人试用测试┃<严禁传播贩卖，请于24小时候删除>","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "MDrive","name": "🗂我的云盘┃配置","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 1,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {
 			"key": "影视TJ",
